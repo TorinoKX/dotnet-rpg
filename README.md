@@ -1,0 +1,1 @@
+Project created by following the "Build the back-end of a .NET 6 web application with Web API, Entity Framework Core & SQL Server in no time!" Udemy course by Patrick God.
